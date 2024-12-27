@@ -80,8 +80,8 @@ android {
     namespace "com.calculatorapp"
     defaultConfig {
         applicationId "com.calculatorapp"
-        minSdkVersion rootProject.ext.minSdkVersion
-        targetSdkVersion rootProject.ext.targetSdkVersion
+        minSdkVersion 31
+        targetSdkVersion 33
         versionCode 1
         versionName "1.0"
     }

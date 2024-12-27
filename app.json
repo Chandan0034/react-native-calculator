@@ -1,4 +1,9 @@
 {
   "name": "calculatorApp",
-  "displayName": "calculatorApp"
+  "displayName": "calculatorApp",
+  "extra": {
+    "eas": {
+      "projectId": "bd0e5b3c-b685-4740-852f-c0402173d2e0"
+    }
+  }
 }
